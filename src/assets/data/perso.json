@@ -1,0 +1,126 @@
+{
+    "profile": {
+        "firstname": "TRUONG THE LUC",
+        "lastname": "",
+        "title": "Front -end programmer",
+        "photo": "./assets/img/4.jpg",
+        "city": "HO CHI MINH , VIETNAM",
+        "phone": "+84 359786699",
+        "mail": "truongtheluc1998@gmail.com",
+        "summary": "I am sociable, always learning, always trying in life. Always complete the assigned tasks. Having a front-end programming background, mastering knowledge of nodejs, angular, html5, css, boottrap, TypeScript, JavaScript, git. "
+    },
+    "social": [
+        {
+            "name":"facebook",
+            "link":"https://www.facebook.com/theluc.truong.14",
+            "icon":["fab","facebook"]
+        },
+        {
+            "name":"twitter",
+            "link":"https://twitter.com/TruongTheLuc",
+            "icon":["fab","twitter"]
+        },
+        {
+            "name":"instagram",
+            "link":"https://www.instagram.com/TheLuc_98/",
+            "icon":["fab","instagram"]
+        },
+        {
+            "name":"github",
+            "link":"https://github.com/truongtheluc1998/",
+            "icon":["fab","github"]
+        }
+    ]
+    ,
+    "experiences": [{
+            "company": "BEELOGISTICS",
+            "picture": "./assets/img/logo.png",
+            "location": "TAN BINH DISTRICT ,TP. HO CHI MINH , VIETNAM",
+            "title": "BEELOGISTICS SYSTEM DESIGN ANALYSIS",
+            "period": "SEP 2018 - MAR 2019",
+            "description": [
+                "learn business processes",
+                "Design and develop new features around the project the company is building."
+                
+            ]
+        },
+        {
+            "company": "Openfreightone",
+            "picture": "./assets/img/LOGO_OF1.png",
+            "location": "TAN BINH DISTRICT ,TP. HO CHI MINH , VIET NAM",
+            "title": "Internship",
+            "period": "MAR 2019 - AUG 2020",
+            "description": [
+                "Screen design and build frontend in angular 9, code written in TypeScript.",
+                "Development of methods for the integration of external data. ",
+                "Creation of APIs and services for data consumption."
+            ]
+        }
+        
+    ],
+    "educations": [{
+            "title": "Last year Tran Dai Nghia University",
+            "city": "HO CHI MINH, VIETNAM",
+            "degree": "University",
+            "period": "2016 - 2020",
+            "university": "Tran Dai Nghia"
+            
+        }
+       
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "icon":["fab","python"]
+        }, 
+        {
+            "name": "Javascript",
+            "icon":["fab","js"]
+        }, 
+        {
+            "name": "Angular",
+            "icon":["fab","angular"]
+        } ,
+        {
+            "name": "nodejs",
+            "icon":["fab","node-js"]
+        } ,
+        {
+            "name": "php",
+            "icon":["fab","php"]
+        } ,
+        {
+            "name": "database",
+            "icon":["fas","database"]
+        } ,
+        {
+            "name": "html",
+            "icon":["fab","html5"]
+        },
+        {
+            "name": "css",
+            "icon":["fab","css3-alt"]
+        },
+        {
+            "name": "globe",
+            "icon":["fas","globe-africa"]
+        } ,
+        {
+            "name": "git",
+            "icon":["fab","git-alt"]
+        } ,
+        {
+            "name": "linux",
+            "icon":["fab","linux"]
+        } ,
+        {
+            "name": "windows",
+            "icon":["fab","windows"]
+        } 
+        
+
+
+
+
+]
+}

@@ -1,0 +1,35 @@
+<h1>
+    {{this.store.cvData.profile.firstname}}
+    <span class="text-primary">{{this.store.cvData.profile.lastname}}</span>
+</h1>
+
+<h2 class="text-primary">
+    {{this.store.cvData.profile.title}}
+</h2>
+<h3>
+ <div class="text-secondary sub-h">
+    {{this.store.cvData.profile.city}} 
+ </div>    
+</h3>
+<h4>
+<div>
+    {{this.store.cvData.profile.phone}}
+</div>
+</h4>
+<h5>
+    <div>
+        <a [href]="this.store.cvData.profile.mail" class='text-primary'> {{this.store.cvData.profile.mail}}</a>
+    </div>
+</h5>
+
+<p>
+    {{this.store.cvData.profile.summary}}
+</p>
+
+<!-- <div class="bottom-right" *ngFor="let item of this.store.cvData.social">
+    <a [href]="item.link">
+        <fa-icon [icon]="item.icon" class="fa-3x"></fa-icon>
+    </a>
+</div> -->
+
+
